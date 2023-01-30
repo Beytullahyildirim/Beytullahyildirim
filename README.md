@@ -6,11 +6,15 @@
 <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF /github.gif"></a>
 <br/>
 
+
 ###  Ben Kimim
--  : Bilgisayar :  Bilgisayar Programcılığı bölümünde okuyorum.
--  : Bilgisayar : Full Stack Developer olmak için çabalıyorum.
--  : Bilgisayar : Bende her alanda çalışmak için çalışıyorum.
-- 📫 Bana ulaşmak isterseniz **Beytullahyildirim057@hotmail.com** adresini kullanabilirsiniz.
+💻:Bilgisayar :  Bilgisayar Programcılığı bölümünde okuyorum.
+
+💻 Bilgisayar : Full Stack Developer olmak için çabalıyorum.
+
+💻 Bilgisayar : Bende her alanda çalışmak için çalışıyorum.
+
+💻📫 Bana ulaşmak isterseniz **Beytullahyildirim057@hotmail.com** adresini kullanabilirsiniz.
 
 ***Bilgisayar: KENDİNİ TEKRAR ETMEYİN (KENDİNİ TEKRAR ETME)***
 <br>
@@ -29,12 +33,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0073B0.svg?logo=visual-studio-code&logoColor=white&style=flat"></a>
 </p>
 
-<p hizalama="merkez">
-  <img src= "https://gpvc.arturio.dev/Stephantouchh" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Stephantouchh?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Stephantouchh?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
 <h1 align="center"> 💻Beytullah YILDIRIM</h1>
 <p hizalama="merkez">
 <a href="https://github.com/beytullahyildirim">
@@ -45,7 +43,7 @@
 </p>
 <div hizalama="merkez">
 
-<h2 align="center">Languages & Frameworks
+<h2 align="center">💻Languages & Frameworks
   </h2>
 
 <p hizalama="merkez">
@@ -83,9 +81,6 @@
         </a>
 </p>
 <br>
-
-
-
 
 
 <!-- Introduction -->
