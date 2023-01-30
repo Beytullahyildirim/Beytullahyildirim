@@ -7,15 +7,27 @@
 <br/>
 
 ###  Ben Kimim
--  : Bilgisayar : Dicle Üniversitesi'nde Bilgisayar Programcılığı bölümünde okuyorum.
+-  : Bilgisayar :  Bilgisayar Programcılığı bölümünde okuyorum.
 -  : Bilgisayar : Full Stack Developer olmak için çabalıyorum.
 -  : Bilgisayar : Bende her alanda çalışmak için çalışıyorum.
-- 📫 Bana ulaşmak isterseniz **Beytullahyildirim057** adresini kullanabilirsiniz.
+- 📫 Bana ulaşmak isterseniz **Beytullahyildirim057@hotmail.com** adresini kullanabilirsiniz.
 
-***:bilgisayar: KENDİNİ TEKRAR ETMEYİN (KENDİNİ TEKRAR ETME)***
+***Bilgisayar: KENDİNİ TEKRAR ETMEYİN (KENDİNİ TEKRAR ETME)***
 <br>
 
 ***Hedef: Bilgisayar Programcılığı, ondan sonra ALLAH'a emanet. :madalya_military:***
+
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-ED0E00.svg?logo=adobe&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-525DE9.svg?logo=discord&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E44C30.svg?logo=git&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-7F248B.svg?logo=github&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="GitLab" title="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-BD2A11.svg?logo=gitlab&logoColor=white&style=flat&color=BD2A11"></a> 
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-168751.svg?logo=google%20sheets&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-E77124.svg?logo=Jupyter&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-179C8F?logo=photopea&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-C80000?logo=stack-overflow&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0073B0.svg?logo=visual-studio-code&logoColor=white&style=flat"></a>
+</p>
 
 <p hizalama="merkez">
   <img src= "https://gpvc.arturio.dev/Stephantouchh" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
@@ -33,7 +45,8 @@
 </p>
 <div hizalama="merkez">
 
-<h2 align="center">Diller ve Çerçeveler</h2>
+<h2 align="center">Languages & Frameworks
+  </h2>
 
 <p hizalama="merkez">
   
@@ -56,7 +69,7 @@
             <source
                  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=none&theme=github_dark"
                  media="(prefers-color-scheme: github_dark)" />
-            <img width="360px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=nisaunnu&show_icons=true&theme=github_dark" />
+            <img width="360px" title="GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=BeytullahYILDIRIM&show_icons=true&theme=github_dark" />
         </picture>
         </a>
     &#8287;&#8287;&#8287;&#8287;
@@ -66,7 +79,7 @@
     <br>
     <br>
     <a href="https://github.com/beytullahyildirim">
-        <img  width="740px" alt="Beytullah YILDIRIM's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nisaunnu&bg_color=0D1117&color=9D9D9D&line=1F6FEA&point=FFFFFF&hide_border=false&radius=20#gh-dark-mode-only" />
+        <img  width="740px" alt="Beytullah YILDIRIM's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=BeytullahYILDIRIM&bg_color=0D1117&color=9D9D9D&line=1F6FEA&point=FFFFFF&hide_border=false&radius=20#gh-dark-mode-only" />
         </a>
 </p>
 <br>
@@ -78,9 +91,9 @@
 <!-- Introduction -->
 
 <p align="center">
-    <a href="https://gitlab.com/nisaunnu">
+    <a href="https://gitlab.com/niHsHu">
         <img alt="GitLab" title="GitLab" src="https://custom-icon-badges.demolab.com/badge/GitLab-BD2A11.svg?logo=gitlab&logoColor=white&style=flat&color=BD2A11">
-        </a> JJJJJJ
+        </a>
         </a> 
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.kaggle.com/beytullahyildirim">
@@ -104,3 +117,5 @@
         </a>
 </p>
 <br>
+
+
