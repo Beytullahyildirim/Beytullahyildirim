@@ -33,6 +33,13 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0073B0.svg?logo=visual-studio-code&logoColor=white&style=flat"></a>
 </p>
 
+----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,javascript,ts,html,css,angular,bootstrap,git,mysql,postgres,visualstudio,vscode&theme=light" />
+  </a>
+</p>
+
 <h1 align="center"> 💻Beytullah YILDIRIM</h1>
 <p hizalama="merkez">
 <a href="https://github.com/beytullahyildirim">
@@ -55,12 +62,6 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 </p>
   
-  ----
-<p hizalama="merkez">
-  <a href="https://sillicons.dev">
-    <img src="https://skilcons.dev/icons?i=cs,dotnet,nodejs,express,javascript,ts,html,css,angular,bootstrap,git,mysql,postgres,visualstudio,vscode&theme=light" / >
-  </a>
-</p>
 
 ## 🎯 My Stats
 
