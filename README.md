@@ -54,6 +54,13 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 </p>
+  
+  ----
+<p hizalama="merkez">
+  <a href="https://sillicons.dev">
+    <img src="https://skilcons.dev/icons?i=cs,dotnet,nodejs,express,javascript,ts,html,css,angular,bootstrap,git,mysql,postgres,visualstudio,vscode&theme=light" / >
+  </a>
+</p>
 
 ## 🎯 My Stats
 
