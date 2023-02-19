@@ -14,12 +14,12 @@
 
 💻 Bilgisayar : Bende her alanda çalışmak için çalışıyorum.
 
-💻📫 Bana ulaşmak isterseniz **Beytullahyildirim057@hotmail.com** adresini kullanabilirsiniz.
+💻📫 Bana ulaşmak isterseniz ** ** adresini kullanabilirsiniz.
 
 ***Bilgisayar: KENDİNİ TEKRAR ETMEYİN (KENDİNİ TEKRAR ETME)***
 <br>
 
-***Hedef: Bilgisayar Programcılığı, ondan sonra ALLAH'a emanet. :madalya_military:***
+***Hedef: Bilgisayar Programcılığı, ondan sonra ALLAH'a emanet. madalya_military:***
 
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-ED0E00.svg?logo=adobe&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-525DE9.svg?logo=discord&logoColor=white&style=flat"></a>
