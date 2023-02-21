@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Herkese+Merhaba+Sayfama+Ho%C5%9F+Geldiniz;Ben+Beytullah+YILDIRIM;Yaz%C4%B1l%C4%B1m+ve+Kodlamay%C4%B1+%C3%87ok+Seviyorum" alt="Typing SVG" /></a> 
+<p align="center">
+  <a href="https://github.com/Stephantouchh"><img src="https://readme-typing-svg.herokuapp.com?lines=Herkese+Merhabalar;Sayfama+Hoş+Geldiniz!;Ben+BEYTULLAH+YILDIRIM.;Yazılım+ve+Kodlamayı+Çok+Seviyorum.;&center=true&width=500&height=50"></a>
 
 <br>
 <h1 align="center">Merhaba 👋 Ben Beytullah YILDIRIM </h1>
