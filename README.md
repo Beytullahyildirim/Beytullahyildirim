@@ -1,7 +1,6 @@
-<p hizalama="merkez">
-  <a href="https://github.com/beytullahyildirim"><img src="https://readme-typing-svg.herokuapp.com?lines=Herkese+Merhabalar;Sayfama+Hoş+Geldiniz!;Ben+ Beytullah.;18+yaşındayım.;Yazılım+ve+Kodlamayı+Çok+Seviyorum.;¢er=true&width=500&height=50"></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Herkese+Merhaba+Sayfama+Ho%C5%9F+Geldiniz;Ben+Beytullah+YILDIRIM;Yaz%C4%B1l%C4%B1m+ve+Kodlamay%C4%B1+%C3%87ok+Seviyorum" alt="Typing SVG" /></a> 
 
+<br>
 <h1 align="center">Merhaba 👋 Ben Beytullah YILDIRIM </h1>
 <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF /github.gif"></a>
 <br/>
