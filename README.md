@@ -19,7 +19,7 @@
 ***Bilgisayar: KENDİNİ TEKRAR ETMEYİN (KENDİNİ TEKRAR ETME)***
 <br>
 
-***Hedef: Bilgisayar Programcılığı, ondan sonra ALLAH'a emanet. madalya_military:***
+***Hedef: Bilgisayar Programcılığı, ondan sonra ALLAH'a emanet ***
 
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-ED0E00.svg?logo=adobe&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-525DE9.svg?logo=discord&logoColor=white&style=flat"></a>
@@ -44,10 +44,6 @@
 <p hizalama="merkez">
 <a href="https://github.com/beytullahyildirim">
 
-  
- 
-
-  
 
 ## 🎯 My Stats
 
